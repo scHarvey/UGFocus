@@ -2,7 +2,8 @@
 [Library](https://www.ugfocus.com/focus/participate/ourlibrary?FileType=Presentation&DefaultView=folder)
 
 ## ***Monday***
-- [**8:30-10:00 : AF25 - Personalize Consumer Experience with Dynamics 365 CE**](./monday/af25.md)
+- [*****8:30-10:00 : AF25*** - Personalize Consumer Experience with Dynamics 365 CE**](./monday/af25.md)
+- [*****10:15-11:45 : DU02*** - Panel Discussion - Interested in Moving to the Client Interface?**](https://www.eventscribe.com/2019/FOCUS/fsPopup.asp?embedded=true&Mode=presInfo&PresentationID=502653)
 
 
 
