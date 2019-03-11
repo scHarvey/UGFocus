@@ -4,7 +4,7 @@
 ## ***Monday***
 - [*****8:30-10:00 : AF25*** - Personalize Consumer Experience with Dynamics 365 CE**](./monday/af25.md)
 - [*****10:15-11:45 : DU02*** - Panel Discussion - Interested in Moving to the Client Interface?**](./monday/du02.md)
-
+- [*****1:00-2:30 : DE11*** - Setting the Stage for a Successful Data Migration**](./monday/de11.md)
 
 
 ## ***Tuesday***
